@@ -1,0 +1,1 @@
+// Main WishUp app component with birthday card functionality
