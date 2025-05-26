@@ -1,12 +1,12 @@
+// import MetaSEO from './MetaSEO';
+// import Analytics from './Analytics';
 import AppRouter from './AppRouter';
-import MetaSEO from './MetaSEO';
-import Analytics from './Analytics';
 
 export default function App() {
   return (
     <>
-      <MetaSEO />
-      <Analytics />
+      {/* <MetaSEO /> */}
+      {/* <Analytics /> */}
       <AppRouter />
     </>
   );
